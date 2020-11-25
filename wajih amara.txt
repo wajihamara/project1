@@ -1,0 +1,16 @@
+question 1:How does the web works?
+
+answer:
+Step 1 - URL Gets Resolved. The website code is obviously not stored on your machine and hence needs to be fetched from another computer where it is stored. ...
+Step 2 - Request Is Sent. ...
+Step 3 - Response Is Parsed. ...
+Step 4 - Page Is Displayed.
+
+
+question 2:What do you need to be a web developer?
+
+you have to understand the html and css language for the design to work the exterior part and other languages ​​to work the interior part of the page
+
+question3:What’s the role of a web developer.
+ answer:
+web page creation
